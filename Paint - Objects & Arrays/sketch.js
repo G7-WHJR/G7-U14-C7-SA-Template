@@ -1,4 +1,4 @@
-var colors = ["white","black", "red", "green", "blue", "yellow", "orange", "violet", "grey"];
+var colors = ["white","black", "red", "green", "blue", "yellow", "orange", "violet"];
 var currentColor;
 
 function setup() {
